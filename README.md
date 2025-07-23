@@ -21,7 +21,7 @@ O objetivo é fornecer uma visão estratégica sobre os clientes e produtos vend
 - Análises cruzadas de comportamento do consumidor
 
 ## 📷 Preview do Dashboard
-![Dashboard Preview](images/Dashboard-preview.png)
+![Dashboard Preview](Dashboard-preview.png)
 
 ## 🚀 Como visualizar
 1. Clone este repositório
